@@ -1,0 +1,4604 @@
+{
+  "count": 192,
+  "items": [
+    {
+      "key": "math",
+      "isMeta": false,
+      "bojTagId": 124,
+      "problemCount": 3979,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "수학",
+          "short": "수학"
+        },
+        {
+          "language": "en",
+          "name": "mathematics",
+          "short": "math"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "implementation",
+      "isMeta": false,
+      "bojTagId": 102,
+      "problemCount": 3540,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "구현",
+          "short": "구현"
+        },
+        {
+          "language": "en",
+          "name": "implementation",
+          "short": "impl"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "dp",
+      "isMeta": false,
+      "bojTagId": 25,
+      "problemCount": 2492,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "다이나믹 프로그래밍",
+          "short": "다이나믹 프로그래밍"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming",
+          "short": "dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "동적계획법"
+        },
+        {
+          "alias": "동적 계획법"
+        }
+      ]
+    },
+    {
+      "key": "graphs",
+      "isMeta": false,
+      "bojTagId": 7,
+      "problemCount": 2348,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "그래프 이론",
+          "short": "그래프 이론"
+        },
+        {
+          "language": "en",
+          "name": "graph theory",
+          "short": "graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "data_structures",
+      "isMeta": false,
+      "bojTagId": 175,
+      "problemCount": 2292,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "자료 구조",
+          "short": "자료 구조"
+        },
+        {
+          "language": "en",
+          "name": "data structures",
+          "short": "ds"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "자료구조"
+        }
+      ]
+    },
+    {
+      "key": "string",
+      "isMeta": false,
+      "bojTagId": 158,
+      "problemCount": 1614,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "문자열",
+          "short": "문자열"
+        },
+        {
+          "language": "en",
+          "name": "string",
+          "short": "string"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "스트링"
+        }
+      ]
+    },
+    {
+      "key": "greedy",
+      "isMeta": false,
+      "bojTagId": 33,
+      "problemCount": 1402,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "그리디 알고리즘",
+          "short": "그리디 알고리즘"
+        },
+        {
+          "language": "en",
+          "name": "greedy",
+          "short": "greedy"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "탐욕법"
+        }
+      ]
+    },
+    {
+      "key": "bruteforcing",
+      "isMeta": false,
+      "bojTagId": 125,
+      "problemCount": 1372,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "브루트포스 알고리즘",
+          "short": "브루트포스 알고리즘"
+        },
+        {
+          "language": "en",
+          "name": "bruteforcing",
+          "short": "bruteforce"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "완전탐색"
+        },
+        {
+          "alias": "완전 탐색"
+        },
+        {
+          "alias": "브루트포스"
+        },
+        {
+          "alias": "bruteforce"
+        },
+        {
+          "alias": "brute force"
+        }
+      ]
+    },
+    {
+      "key": "graph_traversal",
+      "isMeta": false,
+      "bojTagId": 11,
+      "problemCount": 1303,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "그래프 탐색",
+          "short": "그래프 탐색"
+        },
+        {
+          "language": "en",
+          "name": "graph traversal",
+          "short": "traversal"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bfs"
+        },
+        {
+          "alias": "dfs"
+        }
+      ]
+    },
+    {
+      "key": "sorting",
+      "isMeta": false,
+      "bojTagId": 97,
+      "problemCount": 1082,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "정렬",
+          "short": "정렬"
+        },
+        {
+          "language": "en",
+          "name": "sorting",
+          "short": "sorting"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry",
+      "isMeta": false,
+      "bojTagId": 100,
+      "problemCount": 875,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "기하학",
+          "short": "기하학"
+        },
+        {
+          "language": "en",
+          "name": "geometry",
+          "short": "geom"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "number_theory",
+      "isMeta": false,
+      "bojTagId": 95,
+      "problemCount": 872,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "정수론",
+          "short": "정수론"
+        },
+        {
+          "language": "en",
+          "name": "number theory",
+          "short": "number theory"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "trees",
+      "isMeta": false,
+      "bojTagId": 120,
+      "problemCount": 861,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "트리",
+          "short": "트리"
+        },
+        {
+          "language": "en",
+          "name": "tree",
+          "short": "tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "trees"
+        }
+      ]
+    },
+    {
+      "key": "segtree",
+      "isMeta": false,
+      "bojTagId": 65,
+      "problemCount": 833,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "세그먼트 트리",
+          "short": "세그먼트 트리"
+        },
+        {
+          "language": "en",
+          "name": "segment tree",
+          "short": "segtree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "구간트리"
+        },
+        {
+          "alias": "세그트리"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "펜윅"
+        }
+      ]
+    },
+    {
+      "key": "binary_search",
+      "isMeta": false,
+      "bojTagId": 12,
+      "problemCount": 777,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이분 탐색",
+          "short": "이분 탐색"
+        },
+        {
+          "language": "en",
+          "name": "binary search",
+          "short": "binary search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "이분탐색"
+        },
+        {
+          "alias": "이진탐색"
+        }
+      ]
+    },
+    {
+      "key": "bfs",
+      "isMeta": false,
+      "bojTagId": 126,
+      "problemCount": 686,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "너비 우선 탐색",
+          "short": "너비 우선 탐색"
+        },
+        {
+          "language": "en",
+          "name": "breadth-first search",
+          "short": "bfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "breadthfirst"
+        },
+        {
+          "alias": "breadth first"
+        }
+      ]
+    },
+    {
+      "key": "simulation",
+      "isMeta": false,
+      "bojTagId": 141,
+      "problemCount": 600,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "시뮬레이션",
+          "short": "시뮬레이션"
+        },
+        {
+          "language": "en",
+          "name": "simulation",
+          "short": "simulation"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "arithmetic",
+      "isMeta": false,
+      "bojTagId": 121,
+      "problemCount": 598,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "사칙연산",
+          "short": "사칙연산"
+        },
+        {
+          "language": "en",
+          "name": "arithmetic",
+          "short": "arithmetic"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "덧셈"
+        },
+        {
+          "alias": "뺄셈"
+        },
+        {
+          "alias": "곱셈"
+        },
+        {
+          "alias": "나눗셈"
+        },
+        {
+          "alias": "더하기"
+        },
+        {
+          "alias": "빼기"
+        },
+        {
+          "alias": "곱하기"
+        },
+        {
+          "alias": "나누기"
+        }
+      ]
+    },
+    {
+      "key": "dfs",
+      "isMeta": false,
+      "bojTagId": 127,
+      "problemCount": 564,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "깊이 우선 탐색",
+          "short": "깊이 우선 탐색"
+        },
+        {
+          "language": "en",
+          "name": "depth-first search",
+          "short": "dfs"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "depth first"
+        },
+        {
+          "alias": "depthfirst"
+        }
+      ]
+    },
+    {
+      "key": "ad_hoc",
+      "isMeta": false,
+      "bojTagId": 109,
+      "problemCount": 555,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "애드 혹",
+          "short": "애드 혹"
+        },
+        {
+          "language": "en",
+          "name": "ad-hoc",
+          "short": "ad-hoc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "combinatorics",
+      "isMeta": false,
+      "bojTagId": 6,
+      "problemCount": 515,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "조합론",
+          "short": "조합론"
+        },
+        {
+          "language": "en",
+          "name": "combinatorics",
+          "short": "combinatorics"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "combination"
+        },
+        {
+          "alias": "permutation"
+        },
+        {
+          "alias": "probability"
+        },
+        {
+          "alias": "확률"
+        },
+        {
+          "alias": "순열"
+        }
+      ]
+    },
+    {
+      "key": "prefix_sum",
+      "isMeta": false,
+      "bojTagId": 139,
+      "problemCount": 511,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "누적 합",
+          "short": "누적 합"
+        },
+        {
+          "language": "en",
+          "name": "prefix sum",
+          "short": "prefix sum"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "구간합"
+        },
+        {
+          "alias": "부분합"
+        },
+        {
+          "alias": "rangesum"
+        }
+      ]
+    },
+    {
+      "key": "constructive",
+      "isMeta": false,
+      "bojTagId": 128,
+      "problemCount": 506,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "구성적",
+          "short": "구성적"
+        },
+        {
+          "language": "en",
+          "name": "constructive",
+          "short": "constructive"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "constructive"
+        },
+        {
+          "alias": "컨스트럭티브"
+        }
+      ]
+    },
+    {
+      "key": "case_work",
+      "isMeta": false,
+      "bojTagId": 137,
+      "problemCount": 422,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "많은 조건 분기",
+          "short": "많은 조건 분기"
+        },
+        {
+          "language": "en",
+          "name": "case work",
+          "short": "case work"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bitmask",
+      "isMeta": false,
+      "bojTagId": 14,
+      "problemCount": 417,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "비트마스킹",
+          "short": "비트마스킹"
+        },
+        {
+          "language": "en",
+          "name": "bitmask",
+          "short": "bitmask"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "비트필드"
+        }
+      ]
+    },
+    {
+      "key": "dijkstra",
+      "isMeta": false,
+      "bojTagId": 22,
+      "problemCount": 373,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "데이크스트라",
+          "short": "데이크스트라"
+        },
+        {
+          "language": "en",
+          "name": "dijkstra's",
+          "short": "dijkstra's"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "다익"
+        },
+        {
+          "alias": "다익스트라"
+        },
+        {
+          "alias": "데이크스트라"
+        }
+      ]
+    },
+    {
+      "key": "parsing",
+      "isMeta": false,
+      "bojTagId": 96,
+      "problemCount": 328,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "파싱",
+          "short": "파싱"
+        },
+        {
+          "language": "en",
+          "name": "parsing",
+          "short": "parsing"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "backtracking",
+      "isMeta": false,
+      "bojTagId": 5,
+      "problemCount": 315,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "백트래킹",
+          "short": "백트래킹"
+        },
+        {
+          "language": "en",
+          "name": "backtracking",
+          "short": "backtrack"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "백트래킹"
+        },
+        {
+          "alias": "퇴각검색"
+        },
+        {
+          "alias": "퇴각 검색"
+        }
+      ]
+    },
+    {
+      "key": "hash_set",
+      "isMeta": false,
+      "bojTagId": 136,
+      "problemCount": 304,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "해시를 사용한 집합과 맵",
+          "short": "해시를 사용한 집합과 맵"
+        },
+        {
+          "language": "en",
+          "name": "set / map by hashing",
+          "short": "hashset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "집합"
+        },
+        {
+          "alias": "맵"
+        },
+        {
+          "alias": "셋"
+        },
+        {
+          "alias": "딕셔너리"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "해싱"
+        },
+        {
+          "alias": "hashing"
+        }
+      ]
+    },
+    {
+      "key": "disjoint_set",
+      "isMeta": false,
+      "bojTagId": 81,
+      "problemCount": 302,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "분리 집합",
+          "short": "분리 집합"
+        },
+        {
+          "language": "en",
+          "name": "disjoint set",
+          "short": "dsu"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "find"
+        },
+        {
+          "alias": "유니온"
+        },
+        {
+          "alias": "파인드"
+        }
+      ]
+    },
+    {
+      "key": "sweeping",
+      "isMeta": false,
+      "bojTagId": 106,
+      "problemCount": 291,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "스위핑",
+          "short": "스위핑"
+        },
+        {
+          "language": "en",
+          "name": "sweeping",
+          "short": "sweeping"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "라인 스위핑"
+        }
+      ]
+    },
+    {
+      "key": "divide_and_conquer",
+      "isMeta": false,
+      "bojTagId": 24,
+      "problemCount": 290,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "분할 정복",
+          "short": "분할 정복"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer",
+          "short": "d&c"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dnc"
+        }
+      ]
+    },
+    {
+      "key": "tree_set",
+      "isMeta": false,
+      "bojTagId": 74,
+      "problemCount": 265,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "트리를 사용한 집합과 맵",
+          "short": "트리를 사용한 집합과 맵"
+        },
+        {
+          "language": "en",
+          "name": "set / map by trees",
+          "short": "treeset"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "집합"
+        },
+        {
+          "alias": "맵"
+        },
+        {
+          "alias": "셋"
+        },
+        {
+          "alias": "딕셔너리"
+        },
+        {
+          "alias": "dictionary"
+        },
+        {
+          "alias": "map"
+        },
+        {
+          "alias": "set"
+        },
+        {
+          "alias": "bbst"
+        },
+        {
+          "alias": "트리"
+        },
+        {
+          "alias": "tree"
+        }
+      ]
+    },
+    {
+      "key": "priority_queue",
+      "isMeta": false,
+      "bojTagId": 59,
+      "problemCount": 259,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "우선순위 큐",
+          "short": "우선순위 큐"
+        },
+        {
+          "language": "en",
+          "name": "priority queue",
+          "short": "priority queue"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "heap"
+        },
+        {
+          "alias": "힙"
+        }
+      ]
+    },
+    {
+      "key": "dp_tree",
+      "isMeta": false,
+      "bojTagId": 92,
+      "problemCount": 241,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "트리에서의 다이나믹 프로그래밍",
+          "short": "트리에서의 다이나믹 프로그래밍"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming on trees",
+          "short": "tree dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "트리dp"
+        }
+      ]
+    },
+    {
+      "key": "stack",
+      "isMeta": false,
+      "bojTagId": 71,
+      "problemCount": 240,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "스택",
+          "short": "스택"
+        },
+        {
+          "language": "en",
+          "name": "stack",
+          "short": "stack"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "two_pointer",
+      "isMeta": false,
+      "bojTagId": 80,
+      "problemCount": 235,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "두 포인터",
+          "short": "두 포인터"
+        },
+        {
+          "language": "en",
+          "name": "two-pointer",
+          "short": "two-pointer"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "투포인터"
+        },
+        {
+          "alias": "인치웜"
+        },
+        {
+          "alias": "inchworm"
+        },
+        {
+          "alias": "twopointer"
+        }
+      ]
+    },
+    {
+      "key": "flow",
+      "isMeta": false,
+      "bojTagId": 45,
+      "problemCount": 212,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "최대 유량",
+          "short": "최대 유량"
+        },
+        {
+          "language": "en",
+          "name": "maximum flow",
+          "short": "flow"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "디닉"
+        },
+        {
+          "alias": "디니츠"
+        },
+        {
+          "alias": "포드풀커슨"
+        },
+        {
+          "alias": "플로우"
+        }
+      ]
+    },
+    {
+      "key": "primality_test",
+      "isMeta": false,
+      "bojTagId": 9,
+      "problemCount": 203,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "소수 판정",
+          "short": "소수 판정"
+        },
+        {
+          "language": "en",
+          "name": "primality test",
+          "short": "primality test"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "소수"
+        },
+        {
+          "alias": "소수판별"
+        },
+        {
+          "alias": "소수판정"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "lazyprop",
+      "isMeta": false,
+      "bojTagId": 66,
+      "problemCount": 192,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "느리게 갱신되는 세그먼트 트리",
+          "short": "느리게 갱신되는 세그먼트 트리"
+        },
+        {
+          "language": "en",
+          "name": "segment tree with lazy propagation",
+          "short": "lazyprop"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "레이지"
+        },
+        {
+          "alias": "레이지프로퍼게이션"
+        },
+        {
+          "alias": "레이지프로파게이션"
+        },
+        {
+          "alias": "구간트리"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "펜윅"
+        }
+      ]
+    },
+    {
+      "key": "dp_bitfield",
+      "isMeta": false,
+      "bojTagId": 87,
+      "problemCount": 186,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "비트필드를 이용한 다이나믹 프로그래밍",
+          "short": "비트필드를 이용한 다이나믹 프로그래밍"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using bitfield",
+          "short": "bitfield dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "동적계획법"
+        },
+        {
+          "alias": "비트마스크"
+        },
+        {
+          "alias": "비트dp"
+        }
+      ]
+    },
+    {
+      "key": "game_theory",
+      "isMeta": false,
+      "bojTagId": 140,
+      "problemCount": 182,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "게임 이론",
+          "short": "게임 이론"
+        },
+        {
+          "language": "en",
+          "name": "game theory",
+          "short": "game theory"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "게임이론"
+        },
+        {
+          "alias": "님"
+        },
+        {
+          "alias": "nim"
+        }
+      ]
+    },
+    {
+      "key": "arbitrary_precision",
+      "isMeta": false,
+      "bojTagId": 117,
+      "problemCount": 174,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "임의 정밀도 / 큰 수 연산",
+          "short": "임의 정밀도 / 큰 수 연산"
+        },
+        {
+          "language": "en",
+          "name": "arbitrary precision / big integers",
+          "short": "arbitrary precision / big integers"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "빅인티저"
+        },
+        {
+          "alias": "빅데시멀"
+        },
+        {
+          "alias": "biginteger"
+        },
+        {
+          "alias": "bigdecimal"
+        }
+      ]
+    },
+    {
+      "key": "exponentiation_by_squaring",
+      "isMeta": false,
+      "bojTagId": 39,
+      "problemCount": 173,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "분할 정복을 이용한 거듭제곱",
+          "short": "분할 정복을 이용한 거듭제곱"
+        },
+        {
+          "language": "en",
+          "name": "exponentiation by squaring",
+          "short": "exponentiation by squaring"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "거듭제곱"
+        },
+        {
+          "alias": "제곱"
+        },
+        {
+          "alias": "power"
+        },
+        {
+          "alias": "square"
+        }
+      ]
+    },
+    {
+      "key": "offline_queries",
+      "isMeta": false,
+      "bojTagId": 123,
+      "problemCount": 159,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오프라인 쿼리",
+          "short": "오프라인 쿼리"
+        },
+        {
+          "language": "en",
+          "name": "offline queries",
+          "short": "offline query"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "offlinequery"
+        }
+      ]
+    },
+    {
+      "key": "parametric_search",
+      "isMeta": false,
+      "bojTagId": 170,
+      "problemCount": 154,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "매개 변수 탐색",
+          "short": "매개 변수 탐색"
+        },
+        {
+          "language": "en",
+          "name": "parametric search",
+          "short": "parametric search"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "파라메트릭"
+        }
+      ]
+    },
+    {
+      "key": "probability",
+      "isMeta": false,
+      "bojTagId": 177,
+      "problemCount": 151,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "확률론",
+          "short": "확률론"
+        },
+        {
+          "language": "en",
+          "name": "probability theory",
+          "short": "probability"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "expected value"
+        },
+        {
+          "alias": "기대값"
+        },
+        {
+          "alias": "기댓값"
+        }
+      ]
+    },
+    {
+      "key": "recursion",
+      "isMeta": false,
+      "bojTagId": 62,
+      "problemCount": 150,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "재귀",
+          "short": "재귀"
+        },
+        {
+          "language": "en",
+          "name": "recursion",
+          "short": "recursion"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "knapsack",
+      "isMeta": false,
+      "bojTagId": 148,
+      "problemCount": 131,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "배낭 문제",
+          "short": "배낭 문제"
+        },
+        {
+          "language": "en",
+          "name": "knapsack",
+          "short": "knapsack"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "냅색"
+        }
+      ]
+    },
+    {
+      "key": "sieve",
+      "isMeta": false,
+      "bojTagId": 67,
+      "problemCount": 130,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "에라토스테네스의 체",
+          "short": "에라토스테네스의 체"
+        },
+        {
+          "language": "en",
+          "name": "sieve of eratosthenes",
+          "short": "eratosthenes"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "sieve"
+        },
+        {
+          "alias": "에라체"
+        },
+        {
+          "alias": "소수"
+        },
+        {
+          "alias": "prime"
+        }
+      ]
+    },
+    {
+      "key": "bipartite_matching",
+      "isMeta": false,
+      "bojTagId": 13,
+      "problemCount": 129,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이분 매칭",
+          "short": "이분 매칭"
+        },
+        {
+          "language": "en",
+          "name": "bipartite matching",
+          "short": "bipartite matching"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "precomputation",
+      "isMeta": false,
+      "bojTagId": 172,
+      "problemCount": 126,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "런타임 전의 전처리",
+          "short": "런타임 전의 전처리"
+        },
+        {
+          "language": "en",
+          "name": "precomputation",
+          "short": "precomputation"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "lookup table"
+        },
+        {
+          "alias": "db"
+        },
+        {
+          "alias": "database"
+        }
+      ]
+    },
+    {
+      "key": "mst",
+      "isMeta": false,
+      "bojTagId": 49,
+      "problemCount": 123,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "최소 스패닝 트리",
+          "short": "최소 스패닝 트리"
+        },
+        {
+          "language": "en",
+          "name": "minimum spanning tree",
+          "short": "mst"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "coordinate_compression",
+      "isMeta": false,
+      "bojTagId": 161,
+      "problemCount": 120,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "값 / 좌표 압축",
+          "short": "값 / 좌표 압축"
+        },
+        {
+          "language": "en",
+          "name": "value / coordinate compression",
+          "short": "compression"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "zip"
+        }
+      ]
+    },
+    {
+      "key": "lca",
+      "isMeta": false,
+      "bojTagId": 41,
+      "problemCount": 118,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "최소 공통 조상",
+          "short": "최소 공통 조상"
+        },
+        {
+          "language": "en",
+          "name": "lowest common ancestor",
+          "short": "lca"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "euclidean",
+      "isMeta": false,
+      "bojTagId": 26,
+      "problemCount": 116,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "유클리드 호제법",
+          "short": "유클리드 호제법"
+        },
+        {
+          "language": "en",
+          "name": "euclidean algorithm",
+          "short": "euclidean algorithm"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "유클리드알고리즘"
+        }
+      ]
+    },
+    {
+      "key": "hashing",
+      "isMeta": false,
+      "bojTagId": 8,
+      "problemCount": 115,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "해싱",
+          "short": "해싱"
+        },
+        {
+          "language": "en",
+          "name": "hashing",
+          "short": "hash"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "topological_sorting",
+      "isMeta": false,
+      "bojTagId": 78,
+      "problemCount": 110,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "위상 정렬",
+          "short": "위상 정렬"
+        },
+        {
+          "language": "en",
+          "name": "topological sorting",
+          "short": "topological sorting"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "floyd_warshall",
+      "isMeta": false,
+      "bojTagId": 31,
+      "problemCount": 109,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "플로이드–워셜",
+          "short": "플로이드–워셜"
+        },
+        {
+          "language": "en",
+          "name": "floyd–warshall",
+          "short": "floyd–warshall"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "플로이드"
+        },
+        {
+          "alias": "플로이드와셜"
+        },
+        {
+          "alias": "플로이드와샬"
+        }
+      ]
+    },
+    {
+      "key": "scc",
+      "isMeta": false,
+      "bojTagId": 76,
+      "problemCount": 103,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "강한 연결 요소",
+          "short": "강한 연결 요소"
+        },
+        {
+          "language": "en",
+          "name": "strongly connected component",
+          "short": "scc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linear_algebra",
+      "isMeta": false,
+      "bojTagId": 144,
+      "problemCount": 103,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "선형대수학",
+          "short": "선형대수학"
+        },
+        {
+          "language": "en",
+          "name": "linear algebra",
+          "short": "linear algebra"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "선형대수"
+        }
+      ]
+    },
+    {
+      "key": "convex_hull",
+      "isMeta": false,
+      "bojTagId": 20,
+      "problemCount": 101,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "볼록 껍질",
+          "short": "볼록 껍질"
+        },
+        {
+          "language": "en",
+          "name": "convex hull",
+          "short": "convex hull"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "컨벡스헐"
+        }
+      ]
+    },
+    {
+      "key": "inclusion_and_exclusion",
+      "isMeta": false,
+      "bojTagId": 38,
+      "problemCount": 97,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "포함 배제의 원리",
+          "short": "포함 배제의 원리"
+        },
+        {
+          "language": "en",
+          "name": "inclusion and exclusion",
+          "short": "inclusion and exclusion"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sparse_table",
+      "isMeta": false,
+      "bojTagId": 84,
+      "problemCount": 93,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "희소 배열",
+          "short": "희소 배열"
+        },
+        {
+          "language": "en",
+          "name": "sparse table",
+          "short": "sparse table"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "스파스어레이"
+        },
+        {
+          "alias": "sparse table"
+        }
+      ]
+    },
+    {
+      "key": "fft",
+      "isMeta": false,
+      "bojTagId": 28,
+      "problemCount": 86,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "고속 푸리에 변환",
+          "short": "고속 푸리에 변환"
+        },
+        {
+          "language": "en",
+          "name": "fast fourier transform",
+          "short": "fft"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "푸리에변환"
+        },
+        {
+          "alias": "컨볼루션"
+        },
+        {
+          "alias": "convolution"
+        }
+      ]
+    },
+    {
+      "key": "trie",
+      "isMeta": false,
+      "bojTagId": 79,
+      "problemCount": 85,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "트라이",
+          "short": "트라이"
+        },
+        {
+          "language": "en",
+          "name": "trie",
+          "short": "trie"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mcmf",
+      "isMeta": false,
+      "bojTagId": 48,
+      "problemCount": 74,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "최소 비용 최대 유량",
+          "short": "최소 비용 최대 유량"
+        },
+        {
+          "language": "en",
+          "name": "minimum cost maximum flow",
+          "short": "mcmf"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dinic"
+        },
+        {
+          "alias": "dinitz"
+        },
+        {
+          "alias": "ford"
+        },
+        {
+          "alias": "fulkerson"
+        },
+        {
+          "alias": "fordfulkerson"
+        },
+        {
+          "alias": "디닉"
+        },
+        {
+          "alias": "디니츠"
+        },
+        {
+          "alias": "포드풀커슨"
+        }
+      ]
+    },
+    {
+      "key": "smaller_to_larger",
+      "isMeta": false,
+      "bojTagId": 169,
+      "problemCount": 72,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "작은 집합에서 큰 집합으로 합치는 테크닉",
+          "short": "작은 집합에서 큰 집합으로 합치는 테크닉"
+        },
+        {
+          "language": "en",
+          "name": "smaller to larger technique",
+          "short": "smaller to larger"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "merge heuristics"
+        },
+        {
+          "alias": "sack"
+        },
+        {
+          "alias": "small to large"
+        },
+        {
+          "alias": "작은거"
+        },
+        {
+          "alias": "큰거"
+        }
+      ]
+    },
+    {
+      "key": "calculus",
+      "isMeta": false,
+      "bojTagId": 111,
+      "problemCount": 69,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "미적분학",
+          "short": "미적분학"
+        },
+        {
+          "language": "en",
+          "name": "calculus",
+          "short": "calculus"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "미분"
+        },
+        {
+          "alias": "적분"
+        }
+      ]
+    },
+    {
+      "key": "suffix_array",
+      "isMeta": false,
+      "bojTagId": 77,
+      "problemCount": 69,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "접미사 배열과 LCP 배열",
+          "short": "접미사 배열과 LCP 배열"
+        },
+        {
+          "language": "en",
+          "name": "suffix array and lcp array",
+          "short": "suffix array and lcp array"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometry_3d",
+      "isMeta": false,
+      "bojTagId": 131,
+      "problemCount": 68,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "3차원 기하학",
+          "short": "3차원 기하학"
+        },
+        {
+          "language": "en",
+          "name": "geometry; 3d",
+          "short": "3d"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "deque",
+      "isMeta": false,
+      "bojTagId": 73,
+      "problemCount": 67,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "덱",
+          "short": "덱"
+        },
+        {
+          "language": "en",
+          "name": "deque",
+          "short": "deque"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "kmp",
+      "isMeta": false,
+      "bojTagId": 40,
+      "problemCount": 66,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "KMP",
+          "short": "KMP"
+        },
+        {
+          "language": "en",
+          "name": "knuth–morris–pratt",
+          "short": "kmp"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mitm",
+      "isMeta": false,
+      "bojTagId": 46,
+      "problemCount": 66,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "중간에서 만나기",
+          "short": "중간에서 만나기"
+        },
+        {
+          "language": "en",
+          "name": "meet in the middle",
+          "short": "meet in the middle"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "randomization",
+      "isMeta": false,
+      "bojTagId": 115,
+      "problemCount": 66,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "무작위화",
+          "short": "무작위화"
+        },
+        {
+          "language": "en",
+          "name": "randomization",
+          "short": "randomization"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "랜덤"
+        }
+      ]
+    },
+    {
+      "key": "cht",
+      "isMeta": false,
+      "bojTagId": 89,
+      "problemCount": 64,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "볼록 껍질을 이용한 최적화",
+          "short": "볼록 껍질을 이용한 최적화"
+        },
+        {
+          "language": "en",
+          "name": "convex hull trick",
+          "short": "cht"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "컨벡스헐트릭"
+        },
+        {
+          "alias": "컨벡스헐최적화"
+        }
+      ]
+    },
+    {
+      "key": "sqrt_decomposition",
+      "isMeta": false,
+      "bojTagId": 130,
+      "problemCount": 62,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "제곱근 분할법",
+          "short": "제곱근 분할법"
+        },
+        {
+          "language": "en",
+          "name": "square root decomposition",
+          "short": "sqrt decomposition"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "루트분할법"
+        },
+        {
+          "alias": "평방분할법"
+        },
+        {
+          "alias": "모"
+        },
+        {
+          "alias": "mo"
+        },
+        {
+          "alias": "sqrt"
+        }
+      ]
+    },
+    {
+      "key": "euler_tour_technique",
+      "isMeta": false,
+      "bojTagId": 150,
+      "problemCount": 61,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오일러 경로 테크닉",
+          "short": "오일러 경로 테크닉"
+        },
+        {
+          "language": "en",
+          "name": "euler tour technique",
+          "short": "ett"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sliding_window",
+      "isMeta": false,
+      "bojTagId": 68,
+      "problemCount": 59,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "슬라이딩 윈도우",
+          "short": "슬라이딩 윈도우"
+        },
+        {
+          "language": "en",
+          "name": "sliding window",
+          "short": "sliding window"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "슬라이딩윈도"
+        }
+      ]
+    },
+    {
+      "key": "line_intersection",
+      "isMeta": false,
+      "bojTagId": 42,
+      "problemCount": 59,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "선분 교차 판정",
+          "short": "선분 교차 판정"
+        },
+        {
+          "language": "en",
+          "name": "line segment intersection check",
+          "short": "line segment intersection check"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "sprague_grundy",
+      "isMeta": false,
+      "bojTagId": 70,
+      "problemCount": 57,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "스프라그–그런디 정리",
+          "short": "스프라그–그런디 정리"
+        },
+        {
+          "language": "en",
+          "name": "sprague–grundy theorem",
+          "short": "sprague–grundy thm"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "님버"
+        },
+        {
+          "alias": "nimber"
+        }
+      ]
+    },
+    {
+      "key": "lis",
+      "isMeta": false,
+      "bojTagId": 43,
+      "problemCount": 55,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "가장 긴 증가하는 부분 수열: O(n log n)",
+          "short": "가장 긴 증가하는 부분 수열: O(n log n)"
+        },
+        {
+          "language": "en",
+          "name": "longest increasing sequence in o(n log n)",
+          "short": "lis in o(n log n)"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hld",
+      "isMeta": false,
+      "bojTagId": 35,
+      "problemCount": 54,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Heavy-light 분할",
+          "short": "Heavy-light 분할"
+        },
+        {
+          "language": "en",
+          "name": "heavy-light decomposition",
+          "short": "hld"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "centroid",
+      "isMeta": false,
+      "bojTagId": 188,
+      "problemCount": 51,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "centroid",
+          "short": "centroid"
+        },
+        {
+          "language": "ko",
+          "name": "센트로이드",
+          "short": "센트로이드"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "gaussian_elimination",
+      "isMeta": false,
+      "bojTagId": 32,
+      "problemCount": 50,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "가우스 소거법",
+          "short": "가우스 소거법"
+        },
+        {
+          "language": "en",
+          "name": "gaussian elimination",
+          "short": "gaussian elimination"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mfmc",
+      "isMeta": false,
+      "bojTagId": 167,
+      "problemCount": 49,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "최대 유량 최소 컷 정리",
+          "short": "최대 유량 최소 컷 정리"
+        },
+        {
+          "language": "en",
+          "name": "max-flow min-cut theorem",
+          "short": "mfmc"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "centroid_decomposition",
+      "isMeta": false,
+      "bojTagId": 18,
+      "problemCount": 47,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "센트로이드 분할",
+          "short": "센트로이드 분할"
+        },
+        {
+          "language": "en",
+          "name": "centroid decomposition",
+          "short": "centroid decomposition"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "센트로이드"
+        }
+      ]
+    },
+    {
+      "key": "articulation",
+      "isMeta": false,
+      "bojTagId": 4,
+      "problemCount": 44,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "단절점과 단절선",
+          "short": "단절점과 단절선"
+        },
+        {
+          "language": "en",
+          "name": "articulation points and bridges",
+          "short": "articulation points and bridges"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "단절점"
+        },
+        {
+          "alias": "단절선"
+        },
+        {
+          "alias": "브리지"
+        },
+        {
+          "alias": "브릿지"
+        },
+        {
+          "alias": "bridge"
+        }
+      ]
+    },
+    {
+      "key": "permutation_cycle_decomposition",
+      "isMeta": false,
+      "bojTagId": 171,
+      "problemCount": 44,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "순열 사이클 분할",
+          "short": "순열 사이클 분할"
+        },
+        {
+          "language": "en",
+          "name": "permutation cycle decomposition",
+          "short": "permutation cycle decomposition"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bitset",
+      "isMeta": false,
+      "bojTagId": 152,
+      "problemCount": 43,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "비트 집합",
+          "short": "비트 집합"
+        },
+        {
+          "language": "en",
+          "name": "bit set",
+          "short": "bit set"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bitset"
+        },
+        {
+          "alias": "비트셋"
+        }
+      ]
+    },
+    {
+      "key": "pythagoras",
+      "isMeta": false,
+      "bojTagId": 60,
+      "problemCount": 42,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "피타고라스 정리",
+          "short": "피타고라스 정리"
+        },
+        {
+          "language": "en",
+          "name": "pythagoras theorem",
+          "short": "pythagoras thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "eulerian_path",
+      "isMeta": false,
+      "bojTagId": 93,
+      "problemCount": 41,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오일러 경로",
+          "short": "오일러 경로"
+        },
+        {
+          "language": "en",
+          "name": "eulerian path / circuit",
+          "short": "eulerian path"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "eulerian circuit"
+        },
+        {
+          "alias": "euler tour"
+        }
+      ]
+    },
+    {
+      "key": "2_sat",
+      "isMeta": false,
+      "bojTagId": 1,
+      "problemCount": 40,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "2-sat",
+          "short": "2-sat"
+        },
+        {
+          "language": "en",
+          "name": "2-sat",
+          "short": "2-sat"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "투셋"
+        },
+        {
+          "alias": "twosat"
+        },
+        {
+          "alias": "2sat"
+        }
+      ]
+    },
+    {
+      "key": "queue",
+      "isMeta": false,
+      "bojTagId": 72,
+      "problemCount": 40,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "큐",
+          "short": "큐"
+        },
+        {
+          "language": "en",
+          "name": "queue",
+          "short": "queue"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "ternary_search",
+      "isMeta": false,
+      "bojTagId": 101,
+      "problemCount": 40,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "삼분 탐색",
+          "short": "삼분 탐색"
+        },
+        {
+          "language": "en",
+          "name": "ternary search",
+          "short": "ternary search"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pst",
+      "isMeta": false,
+      "bojTagId": 55,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "퍼시스턴트 세그먼트 트리",
+          "short": "퍼시스턴트 세그먼트 트리"
+        },
+        {
+          "language": "en",
+          "name": "persistent segment tree",
+          "short": "pst"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "퍼시스턴트구간트리"
+        },
+        {
+          "alias": "구간트리"
+        },
+        {
+          "alias": "퍼시스턴트세그트리"
+        }
+      ]
+    },
+    {
+      "key": "heuristics",
+      "isMeta": false,
+      "bojTagId": 142,
+      "problemCount": 38,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "휴리스틱",
+          "short": "휴리스틱"
+        },
+        {
+          "language": "en",
+          "name": "heuristics",
+          "short": "heuristics"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "physics",
+      "isMeta": false,
+      "bojTagId": 116,
+      "problemCount": 37,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "물리학",
+          "short": "물리학"
+        },
+        {
+          "language": "en",
+          "name": "physics",
+          "short": "physics"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "cactus",
+      "isMeta": false,
+      "bojTagId": 143,
+      "problemCount": 35,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "선인장",
+          "short": "선인장"
+        },
+        {
+          "language": "en",
+          "name": "cactus",
+          "short": "cactus"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "modular_multiplicative_inverse",
+      "isMeta": false,
+      "bojTagId": 164,
+      "problemCount": 30,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "모듈로 곱셈 역원",
+          "short": "모듈로 곱셈 역원"
+        },
+        {
+          "language": "en",
+          "name": "modular multiplicative inverse",
+          "short": "modular multiplicative inverse"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "modinv"
+        }
+      ]
+    },
+    {
+      "key": "crt",
+      "isMeta": false,
+      "bojTagId": 19,
+      "problemCount": 29,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "중국인의 나머지 정리",
+          "short": "중국인의 나머지 정리"
+        },
+        {
+          "language": "en",
+          "name": "chinese remainder theorem",
+          "short": "crt"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "biconnected_component",
+      "isMeta": false,
+      "bojTagId": 153,
+      "problemCount": 29,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이중 연결 요소",
+          "short": "이중 연결 요소"
+        },
+        {
+          "language": "en",
+          "name": "biconnected component",
+          "short": "biconnected component"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bcc"
+        }
+      ]
+    },
+    {
+      "key": "mo",
+      "isMeta": false,
+      "bojTagId": 50,
+      "problemCount": 28,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "mo's",
+          "short": "Mo's"
+        },
+        {
+          "language": "en",
+          "name": "mo's",
+          "short": "mo's"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "squarerootdecomposition"
+        },
+        {
+          "alias": "sqrtdecomposition"
+        },
+        {
+          "alias": "평방분할법"
+        }
+      ]
+    },
+    {
+      "key": "flt",
+      "isMeta": false,
+      "bojTagId": 29,
+      "problemCount": 27,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "페르마의 소정리",
+          "short": "페르마의 소정리"
+        },
+        {
+          "language": "en",
+          "name": "fermat's little theorem",
+          "short": "fermat's little thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "splay_tree",
+      "isMeta": false,
+      "bojTagId": 69,
+      "problemCount": 26,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "스플레이 트리",
+          "short": "스플레이 트리"
+        },
+        {
+          "language": "en",
+          "name": "splay tree",
+          "short": "splay tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linearity_of_expectation",
+      "isMeta": false,
+      "bojTagId": 179,
+      "problemCount": 26,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "기댓값의 선형성",
+          "short": "기댓값의 선형성"
+        },
+        {
+          "language": "en",
+          "name": "linearity of expectation",
+          "short": "linearity of expectation"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "divide_and_conquer_optimization",
+      "isMeta": false,
+      "bojTagId": 91,
+      "problemCount": 26,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "분할 정복을 사용한 최적화",
+          "short": "분할 정복을 사용한 최적화"
+        },
+        {
+          "language": "en",
+          "name": "divide and conquer optimization",
+          "short": "d&c optimization"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "분할 정복 최적화"
+        },
+        {
+          "alias": "dnc opt"
+        }
+      ]
+    },
+    {
+      "key": "0_1_bfs",
+      "isMeta": false,
+      "bojTagId": 176,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "0-1 너비 우선 탐색",
+          "short": "0-1 너비 우선 탐색"
+        },
+        {
+          "language": "en",
+          "name": "0-1 bfs",
+          "short": "0-1 bfs"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bellman_ford",
+      "isMeta": false,
+      "bojTagId": 10,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "벨만–포드",
+          "short": "벨만–포드"
+        },
+        {
+          "language": "en",
+          "name": "bellman–ford",
+          "short": "bellman-ford"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bellmanford"
+        },
+        {
+          "alias": "벨만포드"
+        },
+        {
+          "alias": "spfa"
+        }
+      ]
+    },
+    {
+      "key": "planar_graph",
+      "isMeta": false,
+      "bojTagId": 168,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "평면 그래프",
+          "short": "평면 그래프"
+        },
+        {
+          "language": "en",
+          "name": "planar graph",
+          "short": "planar graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "polygon_area",
+      "isMeta": false,
+      "bojTagId": 3,
+      "problemCount": 25,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "다각형의 넓이",
+          "short": "다각형의 넓이"
+        },
+        {
+          "language": "en",
+          "name": "area of a polygon",
+          "short": "area of a polygon"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "넓이"
+        }
+      ]
+    },
+    {
+      "key": "euler_phi",
+      "isMeta": false,
+      "bojTagId": 151,
+      "problemCount": 24,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오일러 피 함수",
+          "short": "오일러 피 함수"
+        },
+        {
+          "language": "en",
+          "name": "euler totient function",
+          "short": "euler phi function"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "오일러 파이"
+        },
+        {
+          "alias": "토션트"
+        },
+        {
+          "alias": "eulerphi"
+        },
+        {
+          "alias": "euler phi"
+        }
+      ]
+    },
+    {
+      "key": "extended_euclidean",
+      "isMeta": false,
+      "bojTagId": 27,
+      "problemCount": 24,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "확장 유클리드 호제법",
+          "short": "확장 유클리드 호제법"
+        },
+        {
+          "language": "en",
+          "name": "extended euclidean algorithm",
+          "short": "extended euclidean algorithm"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "확장유클리드알고리즘"
+        },
+        {
+          "alias": "egcd"
+        }
+      ]
+    },
+    {
+      "key": "point_in_convex_polygon",
+      "isMeta": false,
+      "bojTagId": 56,
+      "problemCount": 24,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "볼록 다각형 내부의 점 판정",
+          "short": "볼록 다각형 내부의 점 판정"
+        },
+        {
+          "language": "en",
+          "name": "point in convex polygon check",
+          "short": "point in convex polygon check"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "aho_corasick",
+      "isMeta": false,
+      "bojTagId": 2,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "아호-코라식",
+          "short": "아호-코라식"
+        },
+        {
+          "language": "en",
+          "name": "aho-corasick",
+          "short": "aho-corasick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "아호코라식"
+        },
+        {
+          "alias": "ahocorasick"
+        }
+      ]
+    },
+    {
+      "key": "multi_segtree",
+      "isMeta": false,
+      "bojTagId": 166,
+      "problemCount": 23,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "다차원 세그먼트 트리",
+          "short": "다차원 세그먼트 트리"
+        },
+        {
+          "language": "en",
+          "name": "multidimensional segment tree",
+          "short": "multidimensional segtree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "구간트리"
+        },
+        {
+          "alias": "세그트리"
+        },
+        {
+          "alias": "fenwick"
+        },
+        {
+          "alias": "펜윅"
+        }
+      ]
+    },
+    {
+      "key": "pbs",
+      "isMeta": false,
+      "bojTagId": 54,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "병렬 이분 탐색",
+          "short": "병렬 이분 탐색"
+        },
+        {
+          "language": "en",
+          "name": "parallel binary search",
+          "short": "pbs"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "regex",
+      "isMeta": false,
+      "bojTagId": 63,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "정규 표현식",
+          "short": "정규 표현식"
+        },
+        {
+          "language": "en",
+          "name": "regular expression",
+          "short": "regex"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "정규식"
+        }
+      ]
+    },
+    {
+      "key": "berlekamp_massey",
+      "isMeta": false,
+      "bojTagId": 110,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "벌래캠프–매시",
+          "short": "벌래캠프–매시"
+        },
+        {
+          "language": "en",
+          "name": "berlekamp–massey",
+          "short": "berlekamp–massey"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "벌레캠프"
+        }
+      ]
+    },
+    {
+      "key": "euler_characteristic",
+      "isMeta": false,
+      "bojTagId": 119,
+      "problemCount": 22,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오일러 지표 (χ=V-E+F)",
+          "short": "오일러 지표"
+        },
+        {
+          "language": "en",
+          "name": "euler characteristic (χ=v-e+f)",
+          "short": "euler characteristic"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linked_list",
+      "isMeta": false,
+      "bojTagId": 154,
+      "problemCount": 20,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "연결 리스트",
+          "short": "연결 리스트"
+        },
+        {
+          "language": "en",
+          "name": "linked list",
+          "short": "ll"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "링크드리스트"
+        }
+      ]
+    },
+    {
+      "key": "rotating_calipers",
+      "isMeta": false,
+      "bojTagId": 64,
+      "problemCount": 20,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "회전하는 캘리퍼스",
+          "short": "회전하는 캘리퍼스"
+        },
+        {
+          "language": "en",
+          "name": "rotating calipers",
+          "short": "rotating calipers"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "tsp",
+      "isMeta": false,
+      "bojTagId": 138,
+      "problemCount": 19,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "외판원 순회 문제",
+          "short": "외판원 순회 문제"
+        },
+        {
+          "language": "en",
+          "name": "travelling salesman problem",
+          "short": "tsp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "외판원순회"
+        }
+      ]
+    },
+    {
+      "key": "link_cut_tree",
+      "isMeta": false,
+      "bojTagId": 98,
+      "problemCount": 19,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "링크/컷 트리",
+          "short": "링크/컷 트리"
+        },
+        {
+          "language": "en",
+          "name": "link/cut tree",
+          "short": "link/cut tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "link cut tree"
+        },
+        {
+          "alias": "linkcuttree"
+        },
+        {
+          "alias": "링크컷"
+        }
+      ]
+    },
+    {
+      "key": "merge_sort_tree",
+      "isMeta": false,
+      "bojTagId": 155,
+      "problemCount": 19,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "머지 소트 트리",
+          "short": "머지 소트 트리"
+        },
+        {
+          "language": "en",
+          "name": "merge sort tree",
+          "short": "merge sort tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "병합정렬트리"
+        },
+        {
+          "alias": "합병정렬트리"
+        }
+      ]
+    },
+    {
+      "key": "dp_connection_profile",
+      "isMeta": false,
+      "bojTagId": 107,
+      "problemCount": 19,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "커넥션 프로파일을 이용한 다이나믹 프로그래밍",
+          "short": "커넥션 프로파일을 이용한 다이나믹 프로그래밍"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using connection profile",
+          "short": "dp using connection profile"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "동적계획법"
+        }
+      ]
+    },
+    {
+      "key": "rabin_karp",
+      "isMeta": false,
+      "bojTagId": 61,
+      "problemCount": 18,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "라빈–카프",
+          "short": "라빈–카프"
+        },
+        {
+          "language": "en",
+          "name": "rabin–karp",
+          "short": "rabin–karp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "라빈카프"
+        }
+      ]
+    },
+    {
+      "key": "dp_deque",
+      "isMeta": false,
+      "bojTagId": 108,
+      "problemCount": 17,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "덱을 이용한 다이나믹 프로그래밍",
+          "short": "덱을 이용한 다이나믹 프로그래밍"
+        },
+        {
+          "language": "en",
+          "name": "dynamic programming using a deque",
+          "short": "deque dp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "동적계획법"
+        },
+        {
+          "alias": "덱dp"
+        }
+      ]
+    },
+    {
+      "key": "manacher",
+      "isMeta": false,
+      "bojTagId": 44,
+      "problemCount": 17,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "매내처",
+          "short": "매내처"
+        },
+        {
+          "language": "en",
+          "name": "manacher's",
+          "short": "manacher's"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "mobius_inversion",
+      "isMeta": false,
+      "bojTagId": 51,
+      "problemCount": 17,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "뫼비우스 반전 공식",
+          "short": "뫼비우스 반전 공식"
+        },
+        {
+          "language": "en",
+          "name": "möbius inversion",
+          "short": "möbius inversion"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "mobius"
+        }
+      ]
+    },
+    {
+      "key": "slope_trick",
+      "isMeta": false,
+      "bojTagId": 157,
+      "problemCount": 16,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "함수 개형을 이용한 최적화",
+          "short": "함수 개형을 이용한 최적화"
+        },
+        {
+          "language": "en",
+          "name": "slope trick",
+          "short": "slope trick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "슬로프트릭"
+        },
+        {
+          "alias": "슬로프 트릭"
+        }
+      ]
+    },
+    {
+      "key": "bipartite_graph",
+      "isMeta": false,
+      "bojTagId": 197,
+      "problemCount": 14,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이분 그래프",
+          "short": "이분 그래프"
+        },
+        {
+          "language": "en",
+          "name": "bipartite graph",
+          "short": "bipartite graph"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "tree_isomorphism",
+      "isMeta": false,
+      "bojTagId": 145,
+      "problemCount": 14,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "트리 동형 사상",
+          "short": "트리 동형 사상"
+        },
+        {
+          "language": "en",
+          "name": "tree isomorphism",
+          "short": "tree isomorphism"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "graph isomorphism"
+        },
+        {
+          "alias": "isomorphism"
+        },
+        {
+          "alias": "topology"
+        },
+        {
+          "alias": "아이소모피즘"
+        },
+        {
+          "alias": "위상"
+        }
+      ]
+    },
+    {
+      "key": "numerical_analysis",
+      "isMeta": false,
+      "bojTagId": 122,
+      "problemCount": 14,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "수치해석",
+          "short": "수치해석"
+        },
+        {
+          "language": "en",
+          "name": "numerical analysis",
+          "short": "numerical analysis"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "수학"
+        }
+      ]
+    },
+    {
+      "key": "offline_dynamic_connectivity",
+      "isMeta": false,
+      "bojTagId": 52,
+      "problemCount": 13,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오프라인 동적 연결성 판정",
+          "short": "오프라인 동적 연결성 판정"
+        },
+        {
+          "language": "en",
+          "name": "offline dynamic connectivity",
+          "short": "offline dynamic connectivity"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "alien",
+      "isMeta": false,
+      "bojTagId": 134,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "Aliens 트릭",
+          "short": "aliens 트릭"
+        },
+        {
+          "language": "en",
+          "name": "aliens trick",
+          "short": "aliens trick"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "alien's trick"
+        }
+      ]
+    },
+    {
+      "key": "circulation",
+      "isMeta": false,
+      "bojTagId": 191,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "서큘레이션",
+          "short": "서큘레이션"
+        },
+        {
+          "language": "en",
+          "name": "circulation",
+          "short": "circulation"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pollard_rho",
+      "isMeta": false,
+      "bojTagId": 58,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "폴라드 로",
+          "short": "폴라드 로"
+        },
+        {
+          "language": "en",
+          "name": "pollard rho",
+          "short": "pollard rho"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "miller_rabin",
+      "isMeta": false,
+      "bojTagId": 47,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "밀러–라빈 소수 판별법",
+          "short": "밀러–라빈 소수 판별법"
+        },
+        {
+          "language": "en",
+          "name": "miller–rabin",
+          "short": "miller–rabin"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "pigeonhole_principle",
+      "isMeta": false,
+      "bojTagId": 189,
+      "problemCount": 12,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "비둘기집 원리",
+          "short": "비둘기집"
+        },
+        {
+          "language": "en",
+          "name": "pigeonhole principle",
+          "short": "pigeonhole"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hall",
+      "isMeta": false,
+      "bojTagId": 34,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "홀의 결혼 정리",
+          "short": "홀의 결혼 정리"
+        },
+        {
+          "language": "en",
+          "name": "hall's theorem",
+          "short": "hall's thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "hungarian",
+      "isMeta": false,
+      "bojTagId": 36,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "헝가리안",
+          "short": "헝가리안"
+        },
+        {
+          "language": "en",
+          "name": "hungarian",
+          "short": "hungarian"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "헝가리안"
+        }
+      ]
+    },
+    {
+      "key": "dual_graph",
+      "isMeta": false,
+      "bojTagId": 181,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "쌍대 그래프",
+          "short": "쌍대 그래프"
+        },
+        {
+          "language": "en",
+          "name": "dual graph",
+          "short": "dual graph"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "듀얼 그래프"
+        }
+      ]
+    },
+    {
+      "key": "interpreter",
+      "isMeta": false,
+      "bojTagId": 156,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "인터프리터",
+          "short": "인터프리터"
+        },
+        {
+          "language": "en",
+          "name": "interpreter",
+          "short": "interpreter"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "linear_programming",
+      "isMeta": false,
+      "bojTagId": 103,
+      "problemCount": 11,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "선형 계획법",
+          "short": "선형 계획법"
+        },
+        {
+          "language": "en",
+          "name": "linear programming",
+          "short": "lp"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "리니어프로그래밍"
+        }
+      ]
+    },
+    {
+      "key": "matroid",
+      "isMeta": false,
+      "bojTagId": 104,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "매트로이드",
+          "short": "매트로이드"
+        },
+        {
+          "language": "en",
+          "name": "matroid",
+          "short": "matroid"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "point_in_non_convex_polygon",
+      "isMeta": false,
+      "bojTagId": 57,
+      "problemCount": 9,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "오목 다각형 내부의 점 판정",
+          "short": "오목 다각형 내부의 점 판정"
+        },
+        {
+          "language": "en",
+          "name": "point in non-convex polygon check",
+          "short": "point in non-convex polygon check"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "lucas",
+      "isMeta": false,
+      "bojTagId": 113,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "뤼카 정리",
+          "short": "뤼카 정리"
+        },
+        {
+          "language": "en",
+          "name": "lucas theorem",
+          "short": "lucas thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "duality",
+      "isMeta": false,
+      "bojTagId": 180,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "쌍대성",
+          "short": "쌍대성"
+        },
+        {
+          "language": "en",
+          "name": "duality",
+          "short": "duality"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "듀얼리티"
+        }
+      ]
+    },
+    {
+      "key": "voronoi",
+      "isMeta": false,
+      "bojTagId": 82,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "보로노이 다이어그램",
+          "short": "보로노이 다이어그램"
+        },
+        {
+          "language": "en",
+          "name": "voronoi diagram",
+          "short": "voronoi diagram"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "burnside",
+      "isMeta": false,
+      "bojTagId": 16,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "번사이드 보조정리",
+          "short": "번사이드 보조정리"
+        },
+        {
+          "language": "en",
+          "name": "burnside's lemma",
+          "short": "burnside's lemma"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "discrete_log",
+      "isMeta": false,
+      "bojTagId": 146,
+      "problemCount": 8,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이산 로그",
+          "short": "이산 로그"
+        },
+        {
+          "language": "en",
+          "name": "discrete logarithm",
+          "short": "discrete logarithm"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "order"
+        }
+      ]
+    },
+    {
+      "key": "z",
+      "isMeta": false,
+      "bojTagId": 83,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "z",
+          "short": "Z"
+        },
+        {
+          "language": "en",
+          "name": "z",
+          "short": "z"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "knuth",
+      "isMeta": false,
+      "bojTagId": 90,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "크누스 최적화",
+          "short": "크누스 최적화"
+        },
+        {
+          "language": "en",
+          "name": "knuth optimization",
+          "short": "knuth"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "kitamasa",
+      "isMeta": false,
+      "bojTagId": 112,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "키타마사",
+          "short": "키타마사"
+        },
+        {
+          "language": "en",
+          "name": "kitamasa",
+          "short": "kitamasa"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "statistics",
+      "isMeta": false,
+      "bojTagId": 178,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "통계학",
+          "short": "통계학"
+        },
+        {
+          "language": "en",
+          "name": "statistics",
+          "short": "stats"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "average"
+        },
+        {
+          "alias": "평균"
+        },
+        {
+          "alias": "variance"
+        },
+        {
+          "alias": "분산"
+        },
+        {
+          "alias": "표준편차"
+        },
+        {
+          "alias": "표준 편차"
+        }
+      ]
+    },
+    {
+      "key": "general_matching",
+      "isMeta": false,
+      "bojTagId": 15,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "일반적인 매칭",
+          "short": "일반적인 매칭"
+        },
+        {
+          "language": "en",
+          "name": "general matching",
+          "short": "general matching"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "블라썸"
+        },
+        {
+          "alias": "블러썸"
+        },
+        {
+          "alias": "블라섬"
+        },
+        {
+          "alias": "블러섬"
+        },
+        {
+          "alias": "blossom"
+        },
+        {
+          "alias": "부합"
+        }
+      ]
+    },
+    {
+      "key": "min_enclosing_circle",
+      "isMeta": false,
+      "bojTagId": 162,
+      "problemCount": 7,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "최소 외접원",
+          "short": "최소 외접원"
+        },
+        {
+          "language": "en",
+          "name": "minimum enclosing circle",
+          "short": "minimum enclosing circle"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "bounding circle"
+        },
+        {
+          "alias": "smallest enclosing circle"
+        },
+        {
+          "alias": "minimum covering circle"
+        }
+      ]
+    },
+    {
+      "key": "dominator_tree",
+      "isMeta": false,
+      "bojTagId": 135,
+      "problemCount": 6,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "도미네이터 트리",
+          "short": "도미네이터 트리"
+        },
+        {
+          "language": "en",
+          "name": "dominator tree",
+          "short": "dominator tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "palindrome_tree",
+      "isMeta": false,
+      "bojTagId": 53,
+      "problemCount": 6,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "회문 트리",
+          "short": "회문 트리"
+        },
+        {
+          "language": "en",
+          "name": "palindrome tree",
+          "short": "palindrome tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "팰린드롬트리"
+        }
+      ]
+    },
+    {
+      "key": "half_plane_intersection",
+      "isMeta": false,
+      "bojTagId": 190,
+      "problemCount": 6,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "반평면 교집합",
+          "short": "반평면 교집합"
+        },
+        {
+          "language": "en",
+          "name": "half plane intersection",
+          "short": "hpi"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "monotone_queue_optimization",
+      "isMeta": false,
+      "bojTagId": 165,
+      "problemCount": 6,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "단조 큐를 이용한 최적화",
+          "short": "단조 큐를 이용한 최적화"
+        },
+        {
+          "language": "en",
+          "name": "monotone queue optimization",
+          "short": "monotone queue optimization"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "rope",
+      "isMeta": false,
+      "bojTagId": 159,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "로프",
+          "short": "로프"
+        },
+        {
+          "language": "en",
+          "name": "rope",
+          "short": "rope"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "utf8",
+      "isMeta": false,
+      "bojTagId": 199,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "utf-8 입력 처리",
+          "short": "utf-8"
+        },
+        {
+          "language": "en",
+          "name": "utf-8 inputs",
+          "short": "utf-8"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "green",
+      "isMeta": false,
+      "bojTagId": 183,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "그린 정리",
+          "short": "그린"
+        },
+        {
+          "language": "en",
+          "name": "green's theorem",
+          "short": "green's thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "stoer_wagner",
+      "isMeta": false,
+      "bojTagId": 75,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "스토어–바그너",
+          "short": "스토어–바그너"
+        },
+        {
+          "language": "en",
+          "name": "stoer–wagner",
+          "short": "stoer–wagner"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "stoer-wagner"
+        },
+        {
+          "alias": "stoer-karger"
+        },
+        {
+          "alias": "stoer"
+        },
+        {
+          "alias": "wagner"
+        },
+        {
+          "alias": "karger"
+        },
+        {
+          "alias": "global min cut"
+        },
+        {
+          "alias": "전역 최소 컷"
+        }
+      ]
+    },
+    {
+      "key": "stable_marriage",
+      "isMeta": false,
+      "bojTagId": 192,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "안정 결혼 문제",
+          "short": "안정 결혼"
+        },
+        {
+          "language": "en",
+          "name": "stable marriage problem",
+          "short": "smp"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "tree_compression",
+      "isMeta": false,
+      "bojTagId": 193,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "트리 압축",
+          "short": "트리 압축"
+        },
+        {
+          "language": "en",
+          "name": "tree compression",
+          "short": "tree compression"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "generating_function",
+      "isMeta": false,
+      "bojTagId": 198,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "생성 함수",
+          "short": "생성 함수"
+        },
+        {
+          "language": "en",
+          "name": "generating function",
+          "short": "generating function"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "simulated_annealing",
+      "isMeta": false,
+      "bojTagId": 184,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "담금질 기법",
+          "short": "담금질 기법"
+        },
+        {
+          "language": "en",
+          "name": "simulated annealing",
+          "short": "simulated annealing"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bidirectional_search",
+      "isMeta": false,
+      "bojTagId": 129,
+      "problemCount": 5,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "양방향 탐색",
+          "short": "양방향 탐색"
+        },
+        {
+          "language": "en",
+          "name": "bidirectional search",
+          "short": "bidirectional search"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "bayes",
+      "isMeta": false,
+      "bojTagId": 114,
+      "problemCount": 4,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "베이즈 정리",
+          "short": "베이즈 정리"
+        },
+        {
+          "language": "en",
+          "name": "bayes theorem",
+          "short": "bayes thm"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "조건부확률"
+        }
+      ]
+    },
+    {
+      "key": "hirschberg",
+      "isMeta": false,
+      "bojTagId": 163,
+      "problemCount": 4,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "히르쉬버그",
+          "short": "히르쉬버그"
+        },
+        {
+          "language": "en",
+          "name": "hirschberg's",
+          "short": "hirschberg's"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "hirschburg"
+        }
+      ]
+    },
+    {
+      "key": "suffix_tree",
+      "isMeta": false,
+      "bojTagId": 182,
+      "problemCount": 4,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "접미사 트리",
+          "short": "접미사 트리"
+        },
+        {
+          "language": "en",
+          "name": "suffix tree",
+          "short": "suffix tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "discrete_sqrt",
+      "isMeta": false,
+      "bojTagId": 147,
+      "problemCount": 4,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이산 제곱근",
+          "short": "이산 제곱근"
+        },
+        {
+          "language": "en",
+          "name": "discrete square root",
+          "short": "discrete square root"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "루트"
+        }
+      ]
+    },
+    {
+      "key": "geometry_hyper",
+      "isMeta": false,
+      "bojTagId": 132,
+      "problemCount": 4,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "4차원 이상의 기하학",
+          "short": "4차원 이상의 기하학"
+        },
+        {
+          "language": "en",
+          "name": "geometry; hyperdimensional",
+          "short": "hyperdimensional"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "4차원"
+        },
+        {
+          "alias": "5차원"
+        },
+        {
+          "alias": "6차원"
+        },
+        {
+          "alias": "7차원"
+        },
+        {
+          "alias": "8차원"
+        },
+        {
+          "alias": "9차원"
+        },
+        {
+          "alias": "4d"
+        },
+        {
+          "alias": "5d"
+        },
+        {
+          "alias": "6d"
+        },
+        {
+          "alias": "7d"
+        },
+        {
+          "alias": "8d"
+        },
+        {
+          "alias": "9d"
+        }
+      ]
+    },
+    {
+      "key": "knuth_x",
+      "isMeta": false,
+      "bojTagId": 174,
+      "problemCount": 3,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "크누스 X",
+          "short": "크누스 X"
+        },
+        {
+          "language": "en",
+          "name": "knuth's x",
+          "short": "x"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "delaunay",
+      "isMeta": false,
+      "bojTagId": 21,
+      "problemCount": 3,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "델로네 삼각분할",
+          "short": "델로네 삼각분할"
+        },
+        {
+          "language": "en",
+          "name": "delaunay triangulation",
+          "short": "delaunay triangulation"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "directed_mst",
+      "isMeta": false,
+      "bojTagId": 23,
+      "problemCount": 3,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "유향 최소 신장 트리",
+          "short": "유향 최소 신장 트리"
+        },
+        {
+          "language": "en",
+          "name": "directed minimum spanning tree",
+          "short": "dmst"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "유향mst"
+        }
+      ]
+    },
+    {
+      "key": "dancing_links",
+      "isMeta": false,
+      "bojTagId": 173,
+      "problemCount": 3,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "춤추는 링크",
+          "short": "춤추는 링크"
+        },
+        {
+          "language": "en",
+          "name": "dancing links",
+          "short": "dancing links"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "geometric_boolean_operations",
+      "isMeta": false,
+      "bojTagId": 202,
+      "problemCount": 3,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "도형에서의 불 연산",
+          "short": "도형에서의 불 연산"
+        },
+        {
+          "language": "en",
+          "name": "boolean operations on geometric objects",
+          "short": "geometric boolean operations"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "병합"
+        },
+        {
+          "alias": "교집합"
+        },
+        {
+          "alias": "합집합"
+        },
+        {
+          "alias": "union"
+        },
+        {
+          "alias": "intersect"
+        }
+      ]
+    },
+    {
+      "key": "pick",
+      "isMeta": false,
+      "bojTagId": 187,
+      "problemCount": 2,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "픽의 정리",
+          "short": "픽"
+        },
+        {
+          "language": "en",
+          "name": "pick's theorem",
+          "short": "pick's thm"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "top_tree",
+      "isMeta": false,
+      "bojTagId": 105,
+      "problemCount": 2,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "탑 트리",
+          "short": "탑 트리"
+        },
+        {
+          "language": "en",
+          "name": "top tree",
+          "short": "top tree"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "chordal_graph",
+      "isMeta": false,
+      "bojTagId": 201,
+      "problemCount": 2,
+      "displayNames": [
+        {
+          "language": "en",
+          "name": "chordal graph",
+          "short": "chordal graph"
+        },
+        {
+          "language": "ko",
+          "name": "현 그래프",
+          "short": "현 그래프"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "majority_vote",
+      "isMeta": false,
+      "bojTagId": 160,
+      "problemCount": 2,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "보이어–무어 다수결 투표",
+          "short": "보이어–무어 다수결 투표"
+        },
+        {
+          "language": "en",
+          "name": "boyer–moore majority vote",
+          "short": "majority vote"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "a_star",
+      "isMeta": false,
+      "bojTagId": 186,
+      "problemCount": 1,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "a*",
+          "short": "a*"
+        },
+        {
+          "language": "en",
+          "name": "a*",
+          "short": "a*"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "에이"
+        }
+      ]
+    },
+    {
+      "key": "rb_tree",
+      "isMeta": false,
+      "bojTagId": 94,
+      "problemCount": 1,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "레드-블랙 트리",
+          "short": "레드-블랙 트리"
+        },
+        {
+          "language": "en",
+          "name": "red-black tree",
+          "short": "rb tree"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "rb트리"
+        }
+      ]
+    },
+    {
+      "key": "birthday",
+      "isMeta": false,
+      "bojTagId": 203,
+      "problemCount": 0,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "생일 문제",
+          "short": "생일"
+        },
+        {
+          "language": "en",
+          "name": "birthday problem",
+          "short": "birthday"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "패러독스"
+        },
+        {
+          "alias": "파라독스"
+        },
+        {
+          "alias": "birthday"
+        }
+      ]
+    },
+    {
+      "key": "degree_sequence",
+      "isMeta": false,
+      "bojTagId": 200,
+      "problemCount": 0,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "차수열",
+          "short": "차수열"
+        },
+        {
+          "language": "en",
+          "name": "degree sequence",
+          "short": "degree sequence"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "discrete_kth_root",
+      "isMeta": false,
+      "bojTagId": 149,
+      "problemCount": 0,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "이산 k제곱근",
+          "short": "이산 k제곱근"
+        },
+        {
+          "language": "en",
+          "name": "discrete k-th root",
+          "short": "discrete k-th root"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "루트"
+        }
+      ]
+    },
+    {
+      "key": "multipoint_evaluation",
+      "isMeta": false,
+      "bojTagId": 196,
+      "problemCount": 0,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "다중 대입값 계산",
+          "short": "다중 계산"
+        },
+        {
+          "language": "en",
+          "name": "multipoint evaluation",
+          "short": "multipoint evaluation"
+        }
+      ],
+      "aliases": []
+    },
+    {
+      "key": "differential_cryptanalysis",
+      "isMeta": false,
+      "bojTagId": 185,
+      "problemCount": 0,
+      "displayNames": [
+        {
+          "language": "ko",
+          "name": "차분 공격",
+          "short": "차분 공격"
+        },
+        {
+          "language": "en",
+          "name": "differential cryptanalysis",
+          "short": "differential cryptanalysis"
+        }
+      ],
+      "aliases": [
+        {
+          "alias": "dc"
+        }
+      ]
+    }
+  ]
+}
